@@ -1,0 +1,1 @@
+The actual template can be found at https://github.com/alanbrzu/node-express-template
